@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: #212529;
+}
+a{
+    text-decoration: none;
+}
+
+.first{
+    background-color: #212529;
+    padding: 15px 20px;
+}
+.first a{
+    color: #fff;
+    font-size: 20px;
+    margin: 0 16px 0 0;
+    padding: 5px 0;
+}
+
+#first{
+    color: #ffffff8c;
+    font-size: 16px;
+    margin: 0 20px 0 900px;
+}
+#first:hover{
+    color: #fff;
+}
+
+#second{
+    color: #ffffff8c;
+    font-size: 16px;
+}
+#second:hover{
+    color: #fff;
+}
+
+#third{
+    color: #ffffff8c;
+    font-size: 16px;
+}
+#third:hover{
+    color: #fff;
+}
+
+.second{
+    background-color: #0d6efd;
+    text-align: center;
+    padding: 140px 0 96px;
+}
+.second h1{
+    color: #fff;
+    font-size: 40px;
+    margin: 0 0 8px;
+}
+.second p{
+    color: #fff;
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+.second a{
+    color: #000;
+    background: #f8f9fa;
+    padding: 16px 20px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+.third{
+    padding: 100px 0px 100px 400px;
+    text-align: left;
+}
+.third p{
+    font-size: 20px;
+    padding: 5px 0 ;
+}
+.third ul{
+    padding: 10px 0;
+}
+.third li{
+    padding: 3px 0;
+}
+
+.fourth{
+    padding: 100px 0px 100px 400px;
+    text-align: left;
+    background-color: #F8F9FA;
+}
+.fourth p{
+    font-size: 20px;
+    padding: 5px 0 ;
+}
+
+.fifth{
+    padding: 100px 0px 100px 400px;
+    text-align: left;
+}
+.fifth p{
+    font-size: 20px;
+    padding: 5px 0;
+}
+
+.sixth{
+    padding: 50px 100px;
+    text-align: center;
+    background-color: #212529;
+}
+.sixth p{
+    color: #fff;
+}
